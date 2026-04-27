@@ -1,0 +1,396 @@
+{
+  "catalogId": "comicworld332",
+  "title": "코믹월드 332",
+  "genreKey": "vocaloid",
+  "genreLabel": "보컬로이드",
+  "pageCount": 42,
+  "imageBaseUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid",
+  "pages": [
+    {
+      "page": 1,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/001.webp"
+    },
+    {
+      "page": 2,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/002.webp"
+    },
+    {
+      "page": 3,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/003.webp"
+    },
+    {
+      "page": 4,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/004.webp"
+    },
+    {
+      "page": 5,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/005.webp"
+    },
+    {
+      "page": 6,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/006.webp"
+    },
+    {
+      "page": 7,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/007.webp"
+    },
+    {
+      "page": 8,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/008.webp"
+    },
+    {
+      "page": 9,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/009.webp"
+    },
+    {
+      "page": 10,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/010.webp"
+    },
+    {
+      "page": 11,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/011.webp"
+    },
+    {
+      "page": 12,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/012.webp"
+    },
+    {
+      "page": 13,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/013.webp"
+    },
+    {
+      "page": 14,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/014.webp"
+    },
+    {
+      "page": 15,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/015.webp"
+    },
+    {
+      "page": 16,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/016.webp"
+    },
+    {
+      "page": 17,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/017.webp"
+    },
+    {
+      "page": 18,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/018.webp"
+    },
+    {
+      "page": 19,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/019.webp"
+    },
+    {
+      "page": 20,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/020.webp"
+    },
+    {
+      "page": 21,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/021.webp"
+    },
+    {
+      "page": 22,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/022.webp"
+    },
+    {
+      "page": 23,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/023.webp"
+    },
+    {
+      "page": 24,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/024.webp"
+    },
+    {
+      "page": 25,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/025.webp"
+    },
+    {
+      "page": 26,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/026.webp"
+    },
+    {
+      "page": 27,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/027.webp"
+    },
+    {
+      "page": 28,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/028.webp"
+    },
+    {
+      "page": 29,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/029.webp"
+    },
+    {
+      "page": 30,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/030.webp"
+    },
+    {
+      "page": 31,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/031.webp"
+    },
+    {
+      "page": 32,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/032.webp"
+    },
+    {
+      "page": 33,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/033.webp"
+    },
+    {
+      "page": 34,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/034.webp"
+    },
+    {
+      "page": 35,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/035.webp"
+    },
+    {
+      "page": 36,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/036.webp"
+    },
+    {
+      "page": 37,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/037.webp"
+    },
+    {
+      "page": 38,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/038.webp"
+    },
+    {
+      "page": 39,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/039.webp"
+    },
+    {
+      "page": 40,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/040.webp"
+    },
+    {
+      "page": 41,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/041.webp"
+    },
+    {
+      "page": 42,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/vocaloid/042.webp"
+    }
+  ],
+  "booths": [
+    {
+      "boothNo": "BB03,04",
+      "matchKey": "BB03,04",
+      "startPage": 4,
+      "endPage": 5,
+      "section": "BB03, 04",
+      "artistName": "쁘당",
+      "participationDay": "양일",
+      "circleName": "ㅇㅃㅇㅃ",
+      "genre": "블루아카이브 니케 보컬로이드",
+      "infoUrl": "https://witchform.com/payform/?uuid=C79UTZREOO"
+    },
+    {
+      "boothNo": "BG03,04",
+      "matchKey": "BG03,04",
+      "startPage": 6,
+      "endPage": 12,
+      "section": "BG03, 04",
+      "artistName": "캣다, 이오",
+      "participationDay": "양일",
+      "circleName": "얼탱이없네",
+      "genre": "블루아카이브 보컬로이드",
+      "infoUrl": "https://witchform.com/deposit_form.php?idx=1009106"
+    },
+    {
+      "boothNo": "BG12,13",
+      "matchKey": "BG12,13",
+      "startPage": 13,
+      "endPage": 14,
+      "section": "BG12, 13",
+      "artistName": "HISA",
+      "participationDay": "양일",
+      "circleName": "쁘띠메테오",
+      "genre": "블루아카이브 호요버스 보컬로이드",
+      "infoUrl": "https://witchform.com/payform/?uuid=JHEK79ST6Z"
+    },
+    {
+      "boothNo": "BH13,14",
+      "matchKey": "BH13,14",
+      "startPage": 15,
+      "endPage": 17,
+      "section": "BH13, 14",
+      "artistName": "GOO hongsuk Banggom Cham Tiger_june",
+      "participationDay": "양일",
+      "circleName": "잡탕후루후루",
+      "genre": "블루아카이브 보컬로이드 호요버스 스텔라이브 홀로라이브",
+      "infoUrl": "https://witchform.com/payform/?uuid=T4HMJTCRXA"
+    },
+    {
+      "boothNo": "BI07,08",
+      "matchKey": "BI07,08",
+      "startPage": 18,
+      "endPage": 18,
+      "section": "BI07, 08",
+      "artistName": "오지비",
+      "participationDay": "양일",
+      "circleName": "오지비 월드",
+      "genre": "블루아카이브 보컬로이드",
+      "infoUrl": "https://witchform.com/payform/?uuid=HJZ1RXA0JU"
+    },
+    {
+      "boothNo": "BI13,14",
+      "matchKey": "BI13,14",
+      "startPage": 19,
+      "endPage": 19,
+      "section": "BI13, 14",
+      "artistName": "순당무 드얌",
+      "participationDay": "양일",
+      "circleName": "이분롤하는분아님?",
+      "genre": "이터널리턴 림버스 보컬로이드 버츄버/스트리머",
+      "infoUrl": "https://witchform.com/deposit_form.php?idx=1006784"
+    },
+    {
+      "boothNo": "BK10~13",
+      "matchKey": "BK10~13",
+      "startPage": 20,
+      "endPage": 21,
+      "section": "BK10 ~ 13",
+      "artistName": "밥통 호미",
+      "participationDay": "양일",
+      "circleName": "일망동",
+      "genre": "블루아카이브 스텔라이브 트릭컬 명일방주 이터널리턴 니케 림버스 보컬로이드",
+      "infoUrl": "https://witchform.com/payform/?uuid=KCPBNDBJA2"
+    },
+    {
+      "boothNo": "BL11,12",
+      "matchKey": "BL11,12",
+      "startPage": 22,
+      "endPage": 25,
+      "section": "BL11, 12",
+      "artistName": "",
+      "participationDay": "양일",
+      "circleName": "야쿠르트고로케",
+      "genre": "호요버스 명조 홀로라이브 보컬로이드",
+      "infoUrl": "https://witchform.com/payform/?uuid=5MJPMWRAFQ"
+    },
+    {
+      "boothNo": "BM11~14",
+      "matchKey": "BM11~14",
+      "startPage": 26,
+      "endPage": 27,
+      "section": "BM11 ~ 14",
+      "artistName": "밋다다 쭐어",
+      "participationDay": "양일",
+      "circleName": "미쿠애호단",
+      "genre": "보컬로이드",
+      "infoUrl": "https://x.com/miratsu169/status/2047650543015969257?s=20"
+    },
+    {
+      "boothNo": "CB07,08",
+      "matchKey": "CB07,08",
+      "startPage": 28,
+      "endPage": 28,
+      "section": "CB07, 08",
+      "artistName": "mainbread 꼬마츠코",
+      "participationDay": "양일",
+      "circleName": "어른의카드를써요",
+      "genre": "스텔라이브 트릭컬 보컬로이드",
+      "infoUrl": "https://witchform.com/payform/?uuid=HA6YYFNIOE"
+    },
+    {
+      "boothNo": "CE17,18",
+      "matchKey": "CE17,18",
+      "startPage": 29,
+      "endPage": 32,
+      "section": "CE17, 18",
+      "artistName": "등유 오팔",
+      "participationDay": "양일",
+      "circleName": "등팔프로듀서",
+      "genre": "보컬로이드 1차 창작",
+      "infoUrl": "https://x.com/Touyu_1210/status/2048349011107819915?s=20"
+    },
+    {
+      "boothNo": "CG11,12",
+      "matchKey": "CG11,12",
+      "startPage": 33,
+      "endPage": 34,
+      "section": "CG11, 12",
+      "artistName": "시냐냐",
+      "participationDay": "양일",
+      "circleName": "시나모롤",
+      "genre": "스텔라이브 보컬로이드",
+      "infoUrl": "https://comicw.net/g/456"
+    },
+    {
+      "boothNo": "CI10",
+      "matchKey": "CI10",
+      "startPage": 35,
+      "endPage": 36,
+      "section": "CI10",
+      "artistName": "완두묵",
+      "participationDay": "양일",
+      "circleName": "대파농법의 이해",
+      "genre": "보컬로이드",
+      "infoUrl": "https://x.com/wandu_mook/status/2047931738106876256?s=20"
+    },
+    {
+      "boothNo": "CI15",
+      "matchKey": "CI15",
+      "startPage": 37,
+      "endPage": 38,
+      "section": "CI15",
+      "artistName": "슈에노",
+      "participationDay": "양일",
+      "circleName": "모찌모찌 후와후와",
+      "genre": "트릭컬 보컬로이드",
+      "infoUrl": "https://witchform.com/payform/?uuid=8FBW3WDPIJ"
+    },
+    {
+      "boothNo": "CJ19",
+      "matchKey": "CJ19",
+      "startPage": 39,
+      "endPage": 39,
+      "section": "CJ19",
+      "artistName": "다부니",
+      "participationDay": "양일",
+      "circleName": "이세카이 잡화점",
+      "genre": "블루아카이브 스텔라이브 호요버스 홀로라이브 보컬로이드",
+      "infoUrl": "https://witchform.com/payform/?uuid=YCUWHLJ4WI"
+    },
+    {
+      "boothNo": "CK09",
+      "matchKey": "CK09",
+      "startPage": 40,
+      "endPage": 40,
+      "section": "CK09",
+      "artistName": "상어핀식",
+      "participationDay": "양일",
+      "circleName": "지느러미 잡탕",
+      "genre": "호요버스 트릭컬 보컬로이드",
+      "infoUrl": "https://witchform.com/payform/?uuid=PWDHNMGRNB"
+    },
+    {
+      "boothNo": "CM24",
+      "matchKey": "CM24",
+      "startPage": 41,
+      "endPage": 41,
+      "section": "CM24",
+      "artistName": "펑펑",
+      "participationDay": "양일",
+      "circleName": "부스이름뭐할까요",
+      "genre": "스텔라이브 보컬로이드",
+      "infoUrl": "https://witchform.com/deposit_form.php?idx=1009955"
+    },
+    {
+      "boothNo": "CX03 일",
+      "matchKey": "CX03일",
+      "startPage": 42,
+      "endPage": 42,
+      "section": "CX03 일",
+      "artistName": "붐밤",
+      "participationDay": "일",
+      "circleName": "그냥열고싶었어요",
+      "genre": "보컬로이드",
+      "infoUrl": "https://x.com/bumbamun/status/2048045944839774650?s=20"
+    }
+  ]
+}
