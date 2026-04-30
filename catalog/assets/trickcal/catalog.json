@@ -1,0 +1,392 @@
+{
+  "catalogId": "comicworld332",
+  "title": "코믹월드 332",
+  "genreKey": "trickcal",
+  "genreLabel": "트릭컬",
+  "pageCount": 53,
+  "imageBaseUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal",
+  "pages": [
+    {
+      "page": 1,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/001.webp"
+    },
+    {
+      "page": 2,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/002.webp"
+    },
+    {
+      "page": 3,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/003.webp"
+    },
+    {
+      "page": 4,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/004.webp"
+    },
+    {
+      "page": 5,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/005.webp"
+    },
+    {
+      "page": 6,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/006.webp"
+    },
+    {
+      "page": 7,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/007.webp"
+    },
+    {
+      "page": 8,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/008.webp"
+    },
+    {
+      "page": 9,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/009.webp"
+    },
+    {
+      "page": 10,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/010.webp"
+    },
+    {
+      "page": 11,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/011.webp"
+    },
+    {
+      "page": 12,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/012.webp"
+    },
+    {
+      "page": 13,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/013.webp"
+    },
+    {
+      "page": 14,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/014.webp"
+    },
+    {
+      "page": 15,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/015.webp"
+    },
+    {
+      "page": 16,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/016.webp"
+    },
+    {
+      "page": 17,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/017.webp"
+    },
+    {
+      "page": 18,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/018.webp"
+    },
+    {
+      "page": 19,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/019.webp"
+    },
+    {
+      "page": 20,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/020.webp"
+    },
+    {
+      "page": 21,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/021.webp"
+    },
+    {
+      "page": 22,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/022.webp"
+    },
+    {
+      "page": 23,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/023.webp"
+    },
+    {
+      "page": 24,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/024.webp"
+    },
+    {
+      "page": 25,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/025.webp"
+    },
+    {
+      "page": 26,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/026.webp"
+    },
+    {
+      "page": 27,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/027.webp"
+    },
+    {
+      "page": 28,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/028.webp"
+    },
+    {
+      "page": 29,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/029.webp"
+    },
+    {
+      "page": 30,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/030.webp"
+    },
+    {
+      "page": 31,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/031.webp"
+    },
+    {
+      "page": 32,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/032.webp"
+    },
+    {
+      "page": 33,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/033.webp"
+    },
+    {
+      "page": 34,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/034.webp"
+    },
+    {
+      "page": 35,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/035.webp"
+    },
+    {
+      "page": 36,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/036.webp"
+    },
+    {
+      "page": 37,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/037.webp"
+    },
+    {
+      "page": 38,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/038.webp"
+    },
+    {
+      "page": 39,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/039.webp"
+    },
+    {
+      "page": 40,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/040.webp"
+    },
+    {
+      "page": 41,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/041.webp"
+    },
+    {
+      "page": 42,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/042.webp"
+    },
+    {
+      "page": 43,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/043.webp"
+    },
+    {
+      "page": 44,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/044.webp"
+    },
+    {
+      "page": 45,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/045.webp"
+    },
+    {
+      "page": 46,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/046.webp"
+    },
+    {
+      "page": 47,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/047.webp"
+    },
+    {
+      "page": 48,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/048.webp"
+    },
+    {
+      "page": 49,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/049.webp"
+    },
+    {
+      "page": 50,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/050.webp"
+    },
+    {
+      "page": 51,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/051.webp"
+    },
+    {
+      "page": 52,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/052.webp"
+    },
+    {
+      "page": 53,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/trickcal/053.webp"
+    }
+  ],
+  "booths": [
+    {
+      "boothNo": "BC08",
+      "matchKey": "BC08",
+      "startPage": 4,
+      "endPage": 7,
+      "section": "BC08",
+      "artistName": "유하",
+      "participationDay": "양일",
+      "circleName": "초코리치바",
+      "genre": "트릭컬",
+      "infoUrl": "https://x.com/yuha_live2d/status/2049391658316513510?s=20"
+    },
+    {
+      "boothNo": "BD07,08",
+      "matchKey": "BD07,08",
+      "startPage": 8,
+      "endPage": 8,
+      "section": "BD07, 08",
+      "artistName": "Beliatan",
+      "participationDay": "양일",
+      "circleName": "벨리아땅",
+      "genre": "블루아카이브 보컬로이드 트릭컬 스텔라이브",
+      "infoUrl": "https://x.com/Beliatan_/status/2049103248632779066?s=20"
+    },
+    {
+      "boothNo": "BF06,07",
+      "matchKey": "BF06,07",
+      "startPage": 9,
+      "endPage": 16,
+      "section": "BF06, 07",
+      "artistName": "밤우 정당거래 Eqoo IDOLA 고라니귀 ㅇㅇ",
+      "participationDay": "양일",
+      "circleName": "엘리아스크리에이터즈",
+      "genre": "트릭컬",
+      "infoUrl": "https://witchform.com/payform/?uuid=X4I5ZVVA73"
+    },
+    {
+      "boothNo": "BK10~13",
+      "matchKey": "BK10~13",
+      "startPage": 17,
+      "endPage": 22,
+      "section": "BK10 ~ 13",
+      "artistName": "밥통 호미",
+      "participationDay": "양일",
+      "circleName": "일망동",
+      "genre": "블루아카이브 스텔라이브 트릭컬 명일방주 이터널리턴 니케 림버스 보컬로이드",
+      "infoUrl": "https://witchform.com/payform/?uuid=KCPBNDBJA2"
+    },
+    {
+      "boothNo": "CB07,08",
+      "matchKey": "CB07,08",
+      "startPage": 23,
+      "endPage": 23,
+      "section": "CB07, 08",
+      "artistName": "mainbread 꼬마츠코",
+      "participationDay": "양일",
+      "circleName": "어른의카드를써요",
+      "genre": "스텔라이브 트릭컬 보컬로이드",
+      "infoUrl": "https://witchform.com/payform/?uuid=HA6YYFNIOE"
+    },
+    {
+      "boothNo": "CE07,08",
+      "matchKey": "CE07,08",
+      "startPage": 24,
+      "endPage": 27,
+      "section": "CE07, 08",
+      "artistName": "말랑찐빵 로로 유명사제 미누시오",
+      "participationDay": "양일",
+      "circleName": "잡탕필드",
+      "genre": "블루아카이브 트릭컬 명일방주",
+      "infoUrl": "https://witchform.com/payform/?uuid=OWXJEHQVZV"
+    },
+    {
+      "boothNo": "CE09,10",
+      "matchKey": "CE09,10",
+      "startPage": 28,
+      "endPage": 32,
+      "section": "CE09, 10",
+      "artistName": "농농요리사 트릿",
+      "participationDay": "양일",
+      "circleName": "농농요리사",
+      "genre": "블루아카이브 트릭컬",
+      "infoUrl": "https://x.com/NongNongchef/status/2049488657070059931?s=20"
+    },
+    {
+      "boothNo": "CH07,08",
+      "matchKey": "CH07,08",
+      "startPage": 33,
+      "endPage": 35,
+      "section": "CH07, 08",
+      "artistName": "",
+      "participationDay": "양일",
+      "circleName": "뾰네 그림가게",
+      "genre": "블루아카이브 트릭컬",
+      "infoUrl": "https://witchform.com/deposit_form.php?idx=992032"
+    },
+    {
+      "boothNo": "CI15",
+      "matchKey": "CI15",
+      "startPage": 36,
+      "endPage": 42,
+      "section": "CI15",
+      "artistName": "슈에노",
+      "participationDay": "양일",
+      "circleName": "모찌모찌 후와후와",
+      "genre": "트릭컬 보컬로이드",
+      "infoUrl": "https://witchform.com/payform/?uuid=8FBW3WDPIJ"
+    },
+    {
+      "boothNo": "CK02",
+      "matchKey": "CK02",
+      "startPage": 43,
+      "endPage": 43,
+      "section": "CK02",
+      "artistName": "윈윈 카밍",
+      "participationDay": "양일",
+      "circleName": "개추 크래용",
+      "genre": "블루아카이브 트릭컬",
+      "infoUrl": "https://witchform.com/payform/?uuid=PHZYIW9Y9R"
+    },
+    {
+      "boothNo": "CK06",
+      "matchKey": "CK06",
+      "startPage": 44,
+      "endPage": 46,
+      "section": "CK06",
+      "artistName": "고라니귀",
+      "participationDay": "양일",
+      "circleName": "볼리우드",
+      "genre": "트릭컬",
+      "infoUrl": "https://witchform.com/payform/09P8W94OSP"
+    },
+    {
+      "boothNo": "CK09",
+      "matchKey": "CK09",
+      "startPage": 47,
+      "endPage": 48,
+      "section": "CK09",
+      "artistName": "상어핀식",
+      "participationDay": "양일",
+      "circleName": "지느러미 잡탕",
+      "genre": "호요버스 트릭컬 보컬로이드",
+      "infoUrl": "https://witchform.com/payform/?uuid=PWDHNMGRNB"
+    },
+    {
+      "boothNo": "CN16",
+      "matchKey": "CN16",
+      "startPage": 49,
+      "endPage": 51,
+      "section": "CN16",
+      "artistName": "",
+      "participationDay": "양일",
+      "circleName": "무료연차 찍먹단",
+      "genre": "트릭컬",
+      "infoUrl": "https://witchform.com/deposit_form.php?idx=1014514"
+    },
+    {
+      "boothNo": "CW11 토",
+      "matchKey": "CW11토",
+      "startPage": 52,
+      "endPage": 53,
+      "section": "CW11 토",
+      "artistName": "궁벵이",
+      "participationDay": "토",
+      "circleName": "볼 ㅋㅋ",
+      "genre": "트릭컬",
+      "infoUrl": "https://x.com/ganbaree_3/status/2045378420134367644?s=20"
+    }
+  ]
+}
