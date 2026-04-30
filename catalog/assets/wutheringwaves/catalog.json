@@ -1,0 +1,244 @@
+{
+  "catalogId": "comicworld332",
+  "title": "코믹월드 332",
+  "genreKey": "wutheringwaves",
+  "genreLabel": "명조",
+  "pageCount": 31,
+  "imageBaseUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves",
+  "pages": [
+    {
+      "page": 1,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/001.webp"
+    },
+    {
+      "page": 2,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/002.webp"
+    },
+    {
+      "page": 3,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/003.webp"
+    },
+    {
+      "page": 4,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/004.webp"
+    },
+    {
+      "page": 5,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/005.webp"
+    },
+    {
+      "page": 6,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/006.webp"
+    },
+    {
+      "page": 7,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/007.webp"
+    },
+    {
+      "page": 8,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/008.webp"
+    },
+    {
+      "page": 9,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/009.webp"
+    },
+    {
+      "page": 10,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/010.webp"
+    },
+    {
+      "page": 11,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/011.webp"
+    },
+    {
+      "page": 12,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/012.webp"
+    },
+    {
+      "page": 13,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/013.webp"
+    },
+    {
+      "page": 14,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/014.webp"
+    },
+    {
+      "page": 15,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/015.webp"
+    },
+    {
+      "page": 16,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/016.webp"
+    },
+    {
+      "page": 17,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/017.webp"
+    },
+    {
+      "page": 18,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/018.webp"
+    },
+    {
+      "page": 19,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/019.webp"
+    },
+    {
+      "page": 20,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/020.webp"
+    },
+    {
+      "page": 21,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/021.webp"
+    },
+    {
+      "page": 22,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/022.webp"
+    },
+    {
+      "page": 23,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/023.webp"
+    },
+    {
+      "page": 24,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/024.webp"
+    },
+    {
+      "page": 25,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/025.webp"
+    },
+    {
+      "page": 26,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/026.webp"
+    },
+    {
+      "page": 27,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/027.webp"
+    },
+    {
+      "page": 28,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/028.webp"
+    },
+    {
+      "page": 29,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/029.webp"
+    },
+    {
+      "page": 30,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/030.webp"
+    },
+    {
+      "page": 31,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/JustHomii/catalog-assets@main/catalog/assets/wutheringwaves/031.webp"
+    }
+  ],
+  "booths": [
+    {
+      "boothNo": "DA01,02",
+      "matchKey": "DA01,02",
+      "startPage": 4,
+      "endPage": 12,
+      "section": "DA01, 02",
+      "artistName": "",
+      "participationDay": "양일",
+      "circleName": "땅땅공방",
+      "genre": "블루아카이브 호요버스 명조 체인소맨 각종 애니",
+      "infoUrl": "https://witchform.com/payform/?uuid=JYS1LEHGYH"
+    },
+    {
+      "boothNo": "BA05,06",
+      "matchKey": "BA05,06",
+      "startPage": 13,
+      "endPage": 13,
+      "section": "BA05, 06",
+      "artistName": "커터리",
+      "participationDay": "양일",
+      "circleName": "감뀰포장학과",
+      "genre": "블루아카이브 호요버스 명조 이터널리턴",
+      "infoUrl": "https://x.com/gam_kkyul/status/2046561555521909111?s=20"
+    },
+    {
+      "boothNo": "BD11,12",
+      "matchKey": "BD11,12",
+      "startPage": 14,
+      "endPage": 17,
+      "section": "BD11, 12",
+      "artistName": "犬豆",
+      "participationDay": "양일",
+      "circleName": "CASEBYCASE",
+      "genre": "블루아카이브 호요버스 명조 니케",
+      "infoUrl": "https://witchform.com/payform/?uuid=YG2OTCPRSC"
+    },
+    {
+      "boothNo": "BD13,14",
+      "matchKey": "BD13,14",
+      "startPage": 18,
+      "endPage": 20,
+      "section": "BD13, 14",
+      "artistName": "아노센",
+      "participationDay": "양일",
+      "circleName": "말랑뽀작우유식빵",
+      "genre": "호요버스 명조",
+      "infoUrl": "https://x.com/dkshtps/status/2048706273429114954?s=20"
+    },
+    {
+      "boothNo": "BL11,12",
+      "matchKey": "BL11,12",
+      "startPage": 21,
+      "endPage": 22,
+      "section": "BL11, 12",
+      "artistName": "",
+      "participationDay": "양일",
+      "circleName": "야쿠르트고로케",
+      "genre": "호요버스 명조 홀로라이브 보컬로이드",
+      "infoUrl": "https://witchform.com/payform/?uuid=5MJPMWRAFQ"
+    },
+    {
+      "boothNo": "CD01,02",
+      "matchKey": "CD01,02",
+      "startPage": 23,
+      "endPage": 25,
+      "section": "CD01, 02",
+      "artistName": "귤",
+      "participationDay": "양일",
+      "circleName": "장르가대체몇개야",
+      "genre": "호요버스 명조 명일방주",
+      "infoUrl": "https://witchform.com/payform/GDRO5GH22A"
+    },
+    {
+      "boothNo": "CF17,18",
+      "matchKey": "CF17,18",
+      "startPage": 26,
+      "endPage": 27,
+      "section": "CF17, 18",
+      "artistName": "Factory",
+      "participationDay": "양일",
+      "circleName": "팩토리",
+      "genre": "스텔라이브 명조",
+      "infoUrl": "https://witchform.com/payform/?uuid=0TBXAGL5AT"
+    },
+    {
+      "boothNo": "CG05,06",
+      "matchKey": "CG05,06",
+      "startPage": 28,
+      "endPage": 30,
+      "section": "CG05, 06",
+      "artistName": "桃花",
+      "participationDay": "양일",
+      "circleName": "봄날",
+      "genre": "호요버스 명조",
+      "infoUrl": "https://x.com/aengdohwa/status/2049394804392648885?s=20"
+    },
+    {
+      "boothNo": "CM18",
+      "matchKey": "CM18",
+      "startPage": 31,
+      "endPage": 31,
+      "section": "CM18",
+      "artistName": "시루",
+      "participationDay": "양일",
+      "circleName": "솔라리스파마자마파티",
+      "genre": "명조",
+      "infoUrl": "https://x.com/Siru_ttteok/status/2048399414012899613?s=20"
+    }
+  ]
+}
